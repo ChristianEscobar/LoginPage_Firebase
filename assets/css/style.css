@@ -1,0 +1,19 @@
+.invalid-input {
+	border: 1px solid red;
+	background-color: gray;
+}
+
+.divider {
+  height: 1px;
+  width:100%;
+  display:block; /* for use on default inline elements like span */
+  margin: 9px 0;
+  overflow: hidden;
+  background-color: #e5e5e5;
+}
+
+#user-messages {
+	background-color: #FAEBD7;
+	color: 	#000000;
+	margin-top: 10px;
+}
